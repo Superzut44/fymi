@@ -17,7 +17,7 @@ define('APP_DB_HOST', 'your_db_host');
 define('APP_DB_NAME', 'your_db_name');
 define('APP_DB_USER', 'your_db_user_wich_is_not_root');
 define('APP_DB_PASSWORD', 'your_db_password');
-define('LASTFM_API_KEY', 'last.fm_api');
+define('LASTFM_API_KEY', 'b9d19768a67e057last.fm_api13a8f479de587a61f');//delete last.fm_api
 API last.fm
 
 and Run `php migration.php`
